@@ -1,4 +1,4 @@
-Social Media Sentiment Analysis using NLP
+# Social Media Sentiment Analysis using NLP
 📌 Project Overview
 
 This project analyzes customer sentiment from social media (Twitter) using Natural Language Processing (NLP) techniques. The goal is to understand public perception of brands and provide actionable strategies to improve brand reputation.
